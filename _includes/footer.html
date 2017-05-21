@@ -1,10 +1,14 @@
 <p>footer</p>
 
-<ul>
-    {% for location in site.data.locations %}
-    <li>
-        <strong>{{ location.title }}</strong>
-        <p>{{ location.address }}</p>
-    </li>
-    {% endfor %}
-<ul>
+{% for location in site.data.locations %}
+<div class="vcard">
+    <p class="title">{{ location.title }}<p>
+    <p class="address">
+        <span class="street-address">{{ location.street-address }}</span><br>
+        <span class="region">{{ location.region }}</span><br>
+        <span class="postal-code">{{ location.postal-code }}</span><br>
+        <span class="country-name">{{ location.country-name }}</span>
+    </p>
+    <p class="phone">{{ location.phone }}</p>
+</div>
+{% endfor %}
