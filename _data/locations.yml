@@ -1,14 +1,12 @@
 - title: Parchim
-  address:
-    street-address: Musterstraße 3
-    region: Parchim
-    postal-code: 12345
-    country: Deutschland
+  street-address: Musterstraße 3
+  region: Parchim
+  postal-code: 12345
+  country: Deutschland
   
 - title: Wo Anders
-  address:
-    street-address: Musterstraße 4
-    region: Anders
-    postal-code: 54321
-    country: Deutschland
+  street-address: Musterstraße 4
+  region: Anders
+  postal-code: 54321
+  country: Deutschland
   phone: 0124 / 4541326
