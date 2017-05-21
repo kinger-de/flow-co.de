@@ -1,3 +1,8 @@
+---
+title: Startseite
+layout: default
+---
+
 <!DOCTYPE html>
 <html>
 <body>
