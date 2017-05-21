@@ -2,14 +2,8 @@
 title: Startseite
 layout: default
 ---
+# Hello World
 
-<!DOCTYPE html>
-<html>
-<body>
-    <h1>Hello World</h1>
-    <p>I'm hosted with GitHub Pages.</p>
+I'm hosted with GitHub Pages
 
-    {% include footer.html %}
-
-</body>
-</html>
+{% include footer.html %}
