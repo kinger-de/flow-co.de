@@ -10,3 +10,10 @@
   postal-code: 54321
   country: Deutschland
   phone: 0124 / 4541326
+  
+- title: Ganz Wo Anders
+  street-address: Musterstraße 4
+  region: Anders
+  postal-code: 54321
+  country: Deutschland
+  phone: 0124 / 4541326
